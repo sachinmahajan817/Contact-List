@@ -1,17 +1,23 @@
-# Server for Contacts Project
+# React-Contact-List-App
 
-This is a backend server for the Contacts app in-class project. This project is part of [Udacity's React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
+![Contacts List App](https://github.com/nidhigaday/React-Contact-List-App/blob/master/public/Contacts-app.gif)
 
-You'll build the front end of the Contacts app throughout the course. Because the course is on React and doesn't cover Node or servers, we've built this server and an API to interact with it so can focus on building the front end portion of the project in React.
+# Introduction
 
-## Getting Set Up
+This is a in-class project in Udacity React Nanodegree. It is intended to learn react functional and class components, state management, and rendering JSX code to the UI based on the state of the component.
 
-Getting the server running on your local machine takes only a few steps:
+## Highlights:
 
-1. clone the project - `git clone https://github.com/udacity/reactnd-contacts-server.git`
-2. install its dependencies - `npm install`
-3. start the server - `node server.js`
+* Used [Create React App](https://github.com/facebookincubator/create-react-app) to bootstrap the project.
+* Created a new JS file for each component; following DOT.
+* Component state is passed down from parent to child component. SetState() is used to modify the state of the component.
 
-## Contributing
+## Getting Started
 
-We love receiving pull requests! For specifics on how to contribute to this project, check out the [contributing file](CONTRIBUTING.md).
+* Download this repo
+* Open the folder in command line and install all dependecies with `npm install`. If already installed, skip to next step
+* Open 'React-Contact-List-App' folder in command line. Run `npm start` to open application
+* Open 'reactnd-contacts-server' folder in command line. Start the backend server by `node server.js`
+
+
+
