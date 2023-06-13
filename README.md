@@ -8,7 +8,7 @@ This is a in-class project in Udacity React Nanodegree. It is intended to learn 
 
 ## Highlights:
 
-* Used [Create React App](https://github.com/facebookincubator/create-react-app) to bootstrap the project.
+* Used [Create React App](https://github.com/sachinmahajan817/Contact-List) to bootstrap the project.
 * Created a new JS file for each component; following DOT.
 * Component state is passed down from parent to child component. SetState() is used to modify the state of the component.
 
